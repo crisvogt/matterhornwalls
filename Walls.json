@@ -1,0 +1,30 @@
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author": "Jan Erik Waider",
+			"url": "https://images.unsplash.com/photo-1414058833071-c406ac889d15?q=80&fm=jpg",
+			"name": "Mountain"
+		},
+		{
+			"author": "Samuel Zeller",
+			"url": "https://images.unsplash.com/photo-1428604339796-72401d912824?q=80&fm=jpg",
+			"name": "Matterhorn"
+		},
+		{
+			"author": "Thom van der Weerd",
+			"url": "https://images.unsplash.com/uploads/14108692385825ff152cb/e7de83f0?q=80&fm=jpg",
+			"name": "Swan"
+		},
+		{
+			"url": "https://images.unsplash.com/photo-1428184003419-4cfd6ab3d280?q=80&fm=jpg",
+			"name": "Parrot"
+		},
+		{
+			"author": "Sujan Sundareswaran",
+			"url": "https://images.unsplash.com/reserve/JjdWbOCTlemWMuvC0BeF_DSC_0867edit.jpg",
+			"name": "Grass"
+		}
+		 
+	]
+}
